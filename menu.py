@@ -4,6 +4,8 @@ from operator import index
 codigos = ['001', '002']
 nombres = ['pera', 'uva']
 precios = [2000, 3000]
+#Los productos estan quemados para la validacion de mostrar los productos, 
+# pero si desea los puede quitar, igual se guardan los registros, se editan y eliminan 
 
 # print("Compras El MochoCaido")
 # print("**********************************************")
